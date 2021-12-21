@@ -1,2 +1,2 @@
 # coursera-test
-Cousera test respotory
+Cousera test respository
